@@ -1,4 +1,4 @@
-# COMP2200 Portfolio Part 4 – Obesity Prediction via Clustering and Regression
+# Obesity Prediction via Clustering and Regression
 
 ### 📌 Project Overview
 This project explores obesity prediction using unsupervised and supervised learning techniques. The aim is to identify clusters (groups) of individuals based on lifestyle and biometric attributes and assess how these clusters relate to weight gain and potential obesity risk. Regression models are then applied within the identified groups to analyze predictors of obesity.
